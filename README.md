@@ -45,7 +45,7 @@ These stats persist across sessions — close the tab or browser, come back late
     ```bash
     git clone https://github.com/amirsafa2024/guess-number-game.git
     ```
-````
+
 
 2. Navigate to the project folder:
     ```bash
@@ -72,4 +72,4 @@ Enjoy the game! If you like it, give this repo a ⭐!
 
 ```
 
-```
+````
