@@ -1,4 +1,3 @@
-````markdown
 # Number Guessing Game
 
 A simple, fun, and interactive front-end only number guessing game built using HTML, CSS, and JavaScript.
@@ -70,6 +69,3 @@ Feel free to fork this repository and submit pull requests for improvements, suc
 
 Enjoy the game! If you like it, give this repo a ⭐!
 
-```
-
-````
